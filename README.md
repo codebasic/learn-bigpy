@@ -5,4 +5,7 @@
 
 seongjoo@codebasic.io
 
+[슬라이드](https://www.slideshare.net/secret/3d1JGFKagN10X3)
+
+페이스북 페이지
 https://www.facebook.com/bigpython
